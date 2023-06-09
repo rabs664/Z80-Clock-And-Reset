@@ -16,5 +16,5 @@ Note there is a V1.2 in development to resolve a couple of issues.
 
 
 # Release History
-## Version 1.0
+## Version 1.1
 * First Release
