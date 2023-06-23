@@ -27,6 +27,8 @@ This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/MAI0B51H04) conta
 ## Resources
 [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
 
+[Ben Eater Clock](https://eater.net/8bit/clock)
+
 ## Acknowledgements
 Don Prefontaine 
 
